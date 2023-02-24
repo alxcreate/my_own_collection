@@ -1,3 +1,3 @@
 # Ansible Collection - my_own_namespace.yandex_cloud_elk
 
-Documentation for the collection.
+Collection contains module to create file in specified path and role for use it.
