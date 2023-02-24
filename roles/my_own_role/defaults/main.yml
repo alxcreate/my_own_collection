@@ -1,0 +1,4 @@
+---
+# defaults file for my_own_role
+path: "/Users/alx/Downloads/file.txt"
+content: "Hello World!"
